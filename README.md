@@ -3,7 +3,7 @@
 A modern web application for searching and viewing smartphone details. Built using HTML, Tailwind CSS, and JavaScript.
 
 ## Demo
-[Live Demo]()
+[Live Demo](https://naveen-kumarj.github.io/hot-gadgets-store/)
 
 ## Features
 - Search for smartphones by name
